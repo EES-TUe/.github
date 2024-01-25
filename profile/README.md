@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## EES Repository
+Welcome to the Github organizations of EES TU/e!
 <!--
 
 **Here are some ideas to get you started:**
