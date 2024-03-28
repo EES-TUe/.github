@@ -1,5 +1,5 @@
 ## EES Repository
-Welcome to the Github organizations of EES TU/e! Within this Github organizations we want to develop reusable software tools that can help us further with the research that is being done within EES. Furthermore, have a look at the [Wiki](https://github.com/EES-TUe/.github/wiki/Research-Software-Development) for some information on research software development and quick resource links that can provide background knowledge.
+Welcome to the Github organizations of EES TU/e! Within this Github organizations we want to develop reusable software tools that can help us further with the research that is being done within EES. Furthermore, have a look at the [Wiki](https://github.com/EES-TUe/.github/wiki) for some information on research software development and quick resource links that can provide background knowledge.
 <!--
 
 **Here are some ideas to get you started:**
